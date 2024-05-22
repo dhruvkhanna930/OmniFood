@@ -2,6 +2,10 @@
 
 OmniFood is a frontend project that offers a mock-up of a food delivery service website. It showcases a variety of meals, subscription plans, and customer testimonials. The project is built using HTML and CSS.
 
+## Try it out here
+
+You can try out OmniFood by visiting the live demo [here](https://664d9d04634e2ba7487a8053--lustrous-custard-35c186.netlify.app/).
+
 ## Table of Contents
 
 - [Demo](#demo)
